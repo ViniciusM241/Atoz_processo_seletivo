@@ -1,0 +1,30 @@
+.box {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.input {
+    padding-bottom: 1px;
+
+    color: #1a1a1a;
+    font-size: calc(11px + 1vmin);
+
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-right-radius: 0;
+}
+
+.div-ico {
+    color: #152640;
+    background-color: transparent;
+    
+    border: none;
+}
+
+.message {
+    text-align: left;
+    font-size: calc(7px + 1vmin);
+
+    margin-left: 45px;
+}

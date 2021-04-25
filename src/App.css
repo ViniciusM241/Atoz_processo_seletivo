@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+.App { text-align: center; }
 
 .App-logo {
   height: 10vmin;
@@ -22,12 +20,13 @@
 .form-div {
   background-color: #fff;
   width: 50vw;
-  height: 50vh;
+  height: auto;
   min-width: 300px;
-  min-height: 300px;
+  min-height: 50vh;
   border-radius: 20px;
   padding: 30px;
   box-shadow: 5px 8px 5px #d8d8d8;
+  position: relative;
 }
 
 .form-pre-challenge-greeting {
